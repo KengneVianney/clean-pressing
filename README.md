@@ -56,7 +56,7 @@ components/ui/Card.tsx
 components/ui/Badge.tsx
 
 
-🟢 BINÔME 1 — BASE DE DONNÉES (CORE DU PROJET 🔥)
+🟢 BINÔME 1 — BASE DE DONNÉES
 
 👤 Dev 3 — IndexedDB setup + types
 Tâches :
